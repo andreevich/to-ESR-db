@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "sqlite3": "latest",
+	"iconv-lite":"latest"
+  }
+}
